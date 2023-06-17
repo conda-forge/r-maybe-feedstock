@@ -1,11 +1,11 @@
-About r-maybe
-=============
+About r-maybe-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-maybe-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/armcn/maybe
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-maybe-feedstock/blob/main/LICENSE.txt)
 
 Summary: The maybe type represents the possibility of some value or nothing. It is often used instead of throwing an error or returning `NULL`. The advantage of using a maybe type over `NULL` is that it is both composable and requires the developer to explicitly acknowledge the potential absence of a value, helping to avoid the existence of unexpected behaviour.
 
